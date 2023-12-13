@@ -1,0 +1,37 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.125rem;
+    font-weight: 400;
+    font-style: normal;
+    color: #333;
+    line-height: 1.7;
+    text-align: center;
+}
+li{
+    color: black;
+}
+h1{
+    text-decoration: underline overline;
+    font-weight: 400;
+    font-size: 5rem;
+}
+ul{
+    color:black;
+}
+body{
+    background:gray;
+    height: 80px;
+    width: 100%;
+}
+h2{
+    text-decoration: underline overline;
+}
+h3{
+    text-decoration: underline overline;
+}
+p{
+    text-decoration: underline overline;
+}
+ul {
+    font-family:Fantasy;
+}
